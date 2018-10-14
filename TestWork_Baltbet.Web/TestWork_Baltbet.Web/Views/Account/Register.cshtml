@@ -1,0 +1,57 @@
+﻿
+@{
+    ViewBag.Title = "Регистрация";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+@model TestWork_Baltbet.Web.Models.RegisterViewModel
+@using (Html.BeginForm("Register", "Account", FormMethod.Post))
+{
+    @Html.AntiForgeryToken()
+    <h4>Создайте новую учетную запись</h4>
+    @Html.ValidationSummary("", new { @class = "text-danger" })
+    @Html.LabelFor(m => m.Gender)
+    <br>
+    <p>
+        @Html.RadioButtonFor(m => m.Gender, "М")Мужчина
+        @Html.RadioButtonFor(m => m.Gender, "Ж")Женщина
+    </p>
+
+    @Html.LabelFor(m => m.Age)
+    <br>
+    @Html.TextBoxFor(m => m.Age)
+    <br>
+
+    @Html.LabelFor(m => m.Login)
+    <br>
+    @Html.TextBoxFor(m => m.Login)
+    <br>
+
+    @Html.LabelFor(m => m.Name)
+    <br>
+    @Html.TextBoxFor(m => m.Name)
+    <br>
+
+    @Html.LabelFor(m => m.LastName)
+    <br>
+    @Html.TextBoxFor(m => m.LastName)
+    <br>
+
+    @Html.LabelFor(m => m.Passport)
+    <br>
+    @Html.TextBoxFor(m => m.Passport)
+    <br>
+
+    @Html.LabelFor(m => m.Password)
+    <br>
+    @Html.PasswordFor(m => m.Password)
+    <br>
+
+    @Html.LabelFor(m => m.ConfirmPassword)
+    <br>
+    @Html.PasswordFor(m => m.ConfirmPassword)
+    <br><br>
+
+    <p><input type="submit" value="Регистрация" /></p>
+}
+
+

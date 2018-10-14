@@ -1,0 +1,41 @@
+C:\Users\Max\source\C#\MY_PROJECTS\Baltbet_TestWork\TestWork_Baltbet.Server\TestWork_Baltbet.Server\bin\TestWork_Baltbet.Server.dll.config
+C:\Users\Max\source\C#\MY_PROJECTS\Baltbet_TestWork\TestWork_Baltbet.Server\TestWork_Baltbet.Server\bin\TestWork_Baltbet.Server.dll
+C:\Users\Max\source\C#\MY_PROJECTS\Baltbet_TestWork\TestWork_Baltbet.Server\TestWork_Baltbet.Server\bin\TestWork_Baltbet.Server.pdb
+C:\Users\Max\source\C#\MY_PROJECTS\Baltbet_TestWork\TestWork_Baltbet.Server\TestWork_Baltbet.Server\bin\EntityFramework.dll
+C:\Users\Max\source\C#\MY_PROJECTS\Baltbet_TestWork\TestWork_Baltbet.Server\TestWork_Baltbet.Server\bin\EntityFramework.SqlServer.dll
+C:\Users\Max\source\C#\MY_PROJECTS\Baltbet_TestWork\TestWork_Baltbet.Server\TestWork_Baltbet.Server\bin\EntityFramework.xml
+C:\Users\Max\source\C#\MY_PROJECTS\Baltbet_TestWork\TestWork_Baltbet.Server\TestWork_Baltbet.Server\bin\EntityFramework.SqlServer.xml
+C:\Users\Max\source\C#\MY_PROJECTS\Baltbet_TestWork\TestWork_Baltbet.Server\TestWork_Baltbet.Server\bin\ru\EntityFramework.resources.dll
+C:\Users\Max\source\C#\MY_PROJECTS\Baltbet_TestWork\TestWork_Baltbet.Server\TestWork_Baltbet.Server\obj\Debug\TestWork_Baltbet.Server.csprojAssemblyReference.cache
+C:\Users\Max\source\C#\MY_PROJECTS\Baltbet_TestWork\TestWork_Baltbet.Server\TestWork_Baltbet.Server\obj\Debug\TestWork_Baltbet.Server.csproj.CoreCompileInputs.cache
+C:\Users\Max\source\C#\MY_PROJECTS\Baltbet_TestWork\TestWork_Baltbet.Server\TestWork_Baltbet.Server\obj\Debug\TestWork_Baltbet.Server.csproj.CopyComplete
+C:\Users\Max\source\C#\MY_PROJECTS\Baltbet_TestWork\TestWork_Baltbet.Server\TestWork_Baltbet.Server\obj\Debug\TestWork_Baltbet.Server.dll
+C:\Users\Max\source\C#\MY_PROJECTS\Baltbet_TestWork\TestWork_Baltbet.Server\TestWork_Baltbet.Server\obj\Debug\TestWork_Baltbet.Server.pdb
+C:\Users\Max\source\C#\MY_PROJECTS\TestWork_Baltbet\TestWork_Baltbet.Server\TestWork_Baltbet.Server\bin\TestWork_Baltbet.Server.dll.config
+C:\Users\Max\source\C#\MY_PROJECTS\TestWork_Baltbet\TestWork_Baltbet.Server\TestWork_Baltbet.Server\bin\TestWork_Baltbet.Server.dll
+C:\Users\Max\source\C#\MY_PROJECTS\TestWork_Baltbet\TestWork_Baltbet.Server\TestWork_Baltbet.Server\bin\TestWork_Baltbet.Server.pdb
+C:\Users\Max\source\C#\MY_PROJECTS\TestWork_Baltbet\TestWork_Baltbet.Server\TestWork_Baltbet.Server\bin\EntityFramework.dll
+C:\Users\Max\source\C#\MY_PROJECTS\TestWork_Baltbet\TestWork_Baltbet.Server\TestWork_Baltbet.Server\bin\EntityFramework.SqlServer.dll
+C:\Users\Max\source\C#\MY_PROJECTS\TestWork_Baltbet\TestWork_Baltbet.Server\TestWork_Baltbet.Server\bin\EntityFramework.xml
+C:\Users\Max\source\C#\MY_PROJECTS\TestWork_Baltbet\TestWork_Baltbet.Server\TestWork_Baltbet.Server\bin\EntityFramework.SqlServer.xml
+C:\Users\Max\source\C#\MY_PROJECTS\TestWork_Baltbet\TestWork_Baltbet.Server\TestWork_Baltbet.Server\bin\ru\EntityFramework.resources.dll
+C:\Users\Max\source\C#\MY_PROJECTS\TestWork_Baltbet\TestWork_Baltbet.Server\TestWork_Baltbet.Server\obj\Debug\TestWork_Baltbet.Server.csproj.CoreCompileInputs.cache
+C:\Users\Max\source\C#\MY_PROJECTS\TestWork_Baltbet\TestWork_Baltbet.Server\TestWork_Baltbet.Server\obj\Debug\TestWork_Baltbet.Server.csproj.CopyComplete
+C:\Users\Max\source\C#\MY_PROJECTS\TestWork_Baltbet\TestWork_Baltbet.Server\TestWork_Baltbet.Server\obj\Debug\TestWork_Baltbet.Server.dll
+C:\Users\Max\source\C#\MY_PROJECTS\TestWork_Baltbet\TestWork_Baltbet.Server\TestWork_Baltbet.Server\obj\Debug\TestWork_Baltbet.Server.pdb
+C:\Users\Max\source\C#\MY_PROJECTS\TestWork_Baltbet\TestWork_Baltbet.Server\TestWork_Baltbet.Server\bin\ru\EntityFramework.SqlServer.resources.dll
+C:\Users\Max\source\C#\MY_PROJECTS\TestWork_Baltbet\TestWork_Baltbet.Server\TestWork_Baltbet.Server\obj\Debug\TestWork_Baltbet.Server.csprojAssemblyReference.cache
+C:\Users\Max\source\C#\MY_PROJECTS\Backup\Старый проект (на новый лад)\TestWork_Baltbet.Server\TestWork_Baltbet.Server\bin\TestWork_Baltbet.Server.dll.config
+C:\Users\Max\source\C#\MY_PROJECTS\Backup\Старый проект (на новый лад)\TestWork_Baltbet.Server\TestWork_Baltbet.Server\bin\TestWork_Baltbet.Server.dll
+C:\Users\Max\source\C#\MY_PROJECTS\Backup\Старый проект (на новый лад)\TestWork_Baltbet.Server\TestWork_Baltbet.Server\bin\TestWork_Baltbet.Server.pdb
+C:\Users\Max\source\C#\MY_PROJECTS\Backup\Старый проект (на новый лад)\TestWork_Baltbet.Server\TestWork_Baltbet.Server\bin\EntityFramework.dll
+C:\Users\Max\source\C#\MY_PROJECTS\Backup\Старый проект (на новый лад)\TestWork_Baltbet.Server\TestWork_Baltbet.Server\bin\EntityFramework.SqlServer.dll
+C:\Users\Max\source\C#\MY_PROJECTS\Backup\Старый проект (на новый лад)\TestWork_Baltbet.Server\TestWork_Baltbet.Server\bin\EntityFramework.xml
+C:\Users\Max\source\C#\MY_PROJECTS\Backup\Старый проект (на новый лад)\TestWork_Baltbet.Server\TestWork_Baltbet.Server\bin\EntityFramework.SqlServer.xml
+C:\Users\Max\source\C#\MY_PROJECTS\Backup\Старый проект (на новый лад)\TestWork_Baltbet.Server\TestWork_Baltbet.Server\bin\ru\EntityFramework.resources.dll
+C:\Users\Max\source\C#\MY_PROJECTS\Backup\Старый проект (на новый лад)\TestWork_Baltbet.Server\TestWork_Baltbet.Server\bin\ru\EntityFramework.SqlServer.resources.dll
+C:\Users\Max\source\C#\MY_PROJECTS\Backup\Старый проект (на новый лад)\TestWork_Baltbet.Server\TestWork_Baltbet.Server\obj\Debug\TestWork_Baltbet.Server.csprojAssemblyReference.cache
+C:\Users\Max\source\C#\MY_PROJECTS\Backup\Старый проект (на новый лад)\TestWork_Baltbet.Server\TestWork_Baltbet.Server\obj\Debug\TestWork_Baltbet.Server.csproj.CoreCompileInputs.cache
+C:\Users\Max\source\C#\MY_PROJECTS\Backup\Старый проект (на новый лад)\TestWork_Baltbet.Server\TestWork_Baltbet.Server\obj\Debug\TestWork_Baltbet.Server.csproj.CopyComplete
+C:\Users\Max\source\C#\MY_PROJECTS\Backup\Старый проект (на новый лад)\TestWork_Baltbet.Server\TestWork_Baltbet.Server\obj\Debug\TestWork_Baltbet.Server.dll
+C:\Users\Max\source\C#\MY_PROJECTS\Backup\Старый проект (на новый лад)\TestWork_Baltbet.Server\TestWork_Baltbet.Server\obj\Debug\TestWork_Baltbet.Server.pdb

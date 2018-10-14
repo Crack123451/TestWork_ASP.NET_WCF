@@ -1,0 +1,45 @@
+﻿@{
+    ViewBag.Title = "Главная";
+}
+@using TestWork_Baltbet.Web.Helpers
+
+<h4>Список всех пользователей</h4>
+@Html.ValidationSummary("", new { @class = "text-danger" })
+<style>
+    table {
+        width: 100%;
+        border: 4px black;
+    }
+
+    th {
+        text-align: center;
+        background: #ccc;
+        padding: 5px;
+        border: 1px solid black;
+    }
+
+    td {
+        padding: 5px;
+        border: 1px solid black;
+    }
+</style>
+
+<table>
+    <tr>
+        <th>Логин</th>
+        <th>Имя</th>
+        <th>Фамилия</th>
+        <th>Паспорт</th>
+    </tr>
+    @foreach (var item in ViewBag.ListAccounts)
+    {
+        <tr>
+            <td>@item.Login</td>
+            <td>@item.Name</td>
+            <td>@item.LastName</td>
+            <td>@item.Passport</td>
+        </tr>
+    }
+</table>
+<br>
+<p align="center">@Html.PagingNavigator((int)ViewBag.PageNum, (int)ViewBag.ItemsCount, (int)ViewBag.PageSize)</p>
